@@ -1,0 +1,30 @@
+# Maven
+target/
+*.log
+
+# Gradle (if you ever use it)
+.gradle/
+build/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Spring Boot
+logs/
+*.pid
+
+# H2 database files
+*.mv.db
+*.trace.db
+
+# Env files
+.env
