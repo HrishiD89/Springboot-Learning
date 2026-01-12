@@ -8,6 +8,7 @@ This repository is dedicated to my journey of learning Spring Boot.
 - `02-rest-api`
 - `03-jpa-hibernate`
 - `04-security`
+  * [spring-security-basic](./04-security/gs-securing-web-initial)
 - `05-advance-topics`
 - `06-projects`
 
